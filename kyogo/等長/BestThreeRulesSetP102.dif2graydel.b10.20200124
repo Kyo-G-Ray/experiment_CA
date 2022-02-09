@@ -1,0 +1,80 @@
+Best 0
+rule1 = 120  rule2 = 26 rule3 = 60
+AveAmount = 0.836627  AveLength = 6.192984  SuccessRatio = 100.000000
+
+Best 1
+rule1 = 120  rule2 = 70 rule3 = 60
+AveAmount = 0.837171  AveLength = 6.197338  SuccessRatio = 100.000000
+
+Best 2
+rule1 = 180  rule2 = 62 rule3 = 60
+AveAmount = 0.840346  AveLength = 6.222736  SuccessRatio = 100.000000
+
+Best 3
+rule1 = 180  rule2 = 124 rule3 = 106
+AveAmount = 0.844195  AveLength = 6.253532  SuccessRatio = 100.000000
+
+Best 4
+rule1 = 180  rule2 = 124 rule3 = 150
+AveAmount = 0.845040  AveLength = 6.260290  SuccessRatio = 100.000000
+
+Best 5
+rule1 = 180  rule2 = 30 rule3 = 60
+AveAmount = 0.846137  AveLength = 6.269066  SuccessRatio = 100.000000
+
+Best 6
+rule1 = 180  rule2 = 118 rule3 = 60
+AveAmount = 0.846704  AveLength = 6.273601  SuccessRatio = 100.000000
+
+Best 7
+rule1 = 180  rule2 = 124 rule3 = 90
+AveAmount = 0.848844  AveLength = 6.290723  SuccessRatio = 100.000000
+
+Best 8
+rule1 = 120  rule2 = 50 rule3 = 60
+AveAmount = 0.849535  AveLength = 6.296256  SuccessRatio = 100.000000
+
+Best 9
+rule1 = 120  rule2 = 54 rule3 = 60
+AveAmount = 0.849842  AveLength = 6.298705  SuccessRatio = 100.000000
+
+Best 10
+rule1 = 120  rule2 = 118 rule3 = 60
+AveAmount = 0.850785  AveLength = 6.306257  SuccessRatio = 100.000000
+
+Best 11
+rule1 = 180  rule2 = 124 rule3 = 102
+AveAmount = 0.853133  AveLength = 6.325033  SuccessRatio = 100.000000
+
+Best 12
+rule1 = 120  rule2 = 38 rule3 = 60
+AveAmount = 0.854062  AveLength = 6.332472  SuccessRatio = 100.000000
+
+Best 13
+rule1 = 180  rule2 = 110 rule3 = 60
+AveAmount = 0.854927  AveLength = 6.339388  SuccessRatio = 100.000000
+
+Best 14
+rule1 = 120  rule2 = 114 rule3 = 60
+AveAmount = 0.855298  AveLength = 6.342359  SuccessRatio = 100.000000
+
+Best 15
+rule1 = 212  rule2 = 30 rule3 = 60
+AveAmount = 0.855998  AveLength = 6.347960  SuccessRatio = 100.000000
+
+Best 16
+rule1 = 180  rule2 = 156 rule3 = 90
+AveAmount = 0.856585  AveLength = 6.352654  SuccessRatio = 100.000000
+
+Best 17
+rule1 = 180  rule2 = 94 rule3 = 60
+AveAmount = 0.858413  AveLength = 6.367281  SuccessRatio = 100.000000
+
+Best 18
+rule1 = 120  rule2 = 194 rule3 = 60
+AveAmount = 0.858671  AveLength = 6.369345  SuccessRatio = 100.000000
+
+Best 19
+rule1 = 180  rule2 = 124 rule3 = 122
+AveAmount = 0.860089  AveLength = 6.380683  SuccessRatio = 100.000000
+
